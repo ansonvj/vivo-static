@@ -1,0 +1,130 @@
+.header{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    position: fixed;
+    z-index: 2;
+}
+body{
+    margin: 0px;
+}
+.headerin{
+    padding-left: 70px;
+    padding-top: 8px;
+}
+.headerfont{
+    float: left;
+    padding-top: 10px;
+    padding-left: 100px;
+    font-size: 17px;
+}
+
+.pic1{
+    width: 100%;
+    float: left;
+}
+.image-container {
+    float: left;
+}
+
+.image-text {
+    position: absolute;
+    z-index: 1;
+    bottom: 250px;
+    left: 22px;
+    color: black;
+    padding: 42px;
+}
+.pic2{
+    width: 100%;
+    height: 1410px;
+    background-color: rgb(234, 236, 236);
+}
+
+.image-container2{
+    float: left;
+    margin: 72px;
+}
+.image-text2{
+    color: white;
+}
+.pic3{
+    width: 100%;
+    height: 830px;
+    background-color: rgb(234, 236, 236);
+}
+.g{
+    margin-left: 323px;
+    margin-top: -85px
+}
+
+.pic4{
+    width: 100%;
+    height: 1150px;
+    background-color: rgb(234, 236, 236);
+}
+.image-text20{
+    color: white;
+}
+.image-text2{
+    color: black;
+}
+
+.image-container3{
+    float: left;
+    margin-left: -35px;
+    margin-top: 70px;
+}
+
+.image-container4{
+    float: left;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+.image-container5{
+    float: left;
+    margin-left: -30px;
+    margin-top: 70px;
+}
+
+.footer{
+    background-color: rgb(27, 27, 27);
+    float: left;
+    width: 100%;
+    height: 626px;
+}
+
+.fhd{
+    padding-right: 60px;
+    padding-bottom: 20px;
+}
+
+.fl{
+    font-size: 20px;
+    margin-left: 1200px;
+    margin-top: -380px;
+    color: rgb(132, 129, 129);
+}
+.fh{
+    margin-bottom: -20px;
+}
+
+.final{
+    
+    float: left;
+    width: 100%;
+    height: 200px;
+    color: rgb(132, 129, 129);
+}
+.finalin{
+    margin: 100px;
+}
+.f{
+    padding-left: 1137px;
+    margin-top: -31px;
+}
+
+
+
+
+
